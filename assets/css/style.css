@@ -1,0 +1,77 @@
+h1,
+        h2 {
+            color: coral;
+            font-family: 'Manrope', sans-serif, serif;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 35px;
+            line-height: 48px;
+        }
+
+        img {
+            width: 50vw;
+
+        }
+        
+        .menu {
+            text-decoration: none;
+            color: #000000;
+            padding: 4px;
+            font-weight: 400;
+            font-family: Manrope, sans-serif, serif ;
+            font-style: normal;
+            font-size: 14px;
+            line-height: 19px;
+
+        }
+
+        #unique {
+            color: chocolate;
+        }
+
+        #mainmenu .menu {
+            color: blueviolet;
+        }
+
+        nav .menu:hover {
+            text-decoration: underline;
+        }
+
+        .footermenu {
+            text-decoration: none;
+            color: #55B74C;
+            padding: 4px;
+            font-weight: bolder;
+            font-family: 'Manrope', sans-serif, serif;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 25px;
+        }
+        footer .footermenu:hover {
+            text-decoration: underline;
+        }
+        p::first-letter {
+            color: red;
+        }
+        #logo {
+            
+            width: 175px;
+            height: 51px;
+            top: 95px;
+            left: 200px;
+            border: 1px solid black;
+            opacity: 0,5; 
+
+        }
+        #companyname {
+            padding: 10px;
+            margin: 20px;
+            font-family: 'Manrope'; 
+        }
+        #mainphoto {
+            width: 1200px;
+            height: 380px;
+            left: 200px;
+            top: 247px;
+        }
